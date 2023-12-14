@@ -1,5 +1,5 @@
 /*
-  File: 1.0_health_coahc.ino
+  File: 1.0_health_coach.ino
   Author: Simon Niklas Suslich
   Date: 2023-12-13
   Description: Denna projekt (Healt Coach) använder en vibrationssensor för att mäta av rörelse och en RTC modul för att läsa av fysiskt inaktiv tid. Informationen ges som
